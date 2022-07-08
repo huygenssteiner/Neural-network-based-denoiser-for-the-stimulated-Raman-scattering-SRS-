@@ -3,3 +3,4 @@ The Raman spectroscopy is a powerful technique to investigate the features of th
 https://arxiv.org/pdf/1608.03981v1.pdf
 https://github.com/shibuiwilliam/DeepLearningDenoise
 The main goal is using it to divide the nonlinear contributions by the Raman spectrum.
+In particular, the best way to use this kind of denoiser is trying to predict the noise and then subtract it. 
